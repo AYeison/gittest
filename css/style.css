@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #313131 !important;
+    color: #fff;
+
+}
+
+.navbar p, .navbar a, .navbar i, .navbar li{
+    color: #fff;
+}
+
+.navbar a:hover:not(.dropdown-item), .navbar .a:active:not(.dropdown-item), .navbar a:focus:not(.dropdown-item){
+    color: #ccc;
+}
+.navbar .dropdown-menu{
+    background-color: #313131 !important;
+}
+
+.s1{
+    padding-top: 200px;
+    height: 3000px;
+    background-color: #202020;
+}
+
+.card{
+    background-color: #313131 !important;
+    color: #fff;
+}
+
